@@ -37,6 +37,15 @@ h3 {
   margin: 10px;
 }
 
+/* img {
+  width: 100%;
+} */
+
+main img {
+  width: 100%;
+}
+
+
 /* Groups & Items  (Desktop) */
 
 @media all and (min-width: 800px) {
