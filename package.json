@@ -1,0 +1,23 @@
+{
+  "name": "starter-front-end-foundations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumroon/starter-front-end-foundations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumroon/starter-front-end-foundations/issues"
+  },
+  "homepage": "https://github.com/jumroon/starter-front-end-foundations#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
